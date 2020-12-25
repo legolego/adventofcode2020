@@ -1,0 +1,5 @@
+shiny gold bags contain 2 dark red bags, 3 plaid lime bags.
+dark red bags contain 2 dark violet bags.
+dark violet bags contain no other bags.
+plaid lime bags contain 2 dark green bags.
+dark green bags contain no other bags.
